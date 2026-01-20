@@ -16,7 +16,7 @@ Estudante de Desenvolvimento Front-end apaixonado por transformar ideias em cód
 </div>
 
 ## 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[lucascavalcante96]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucascavalcante96&show_icons=true&theme=radical)
 
 ---
 "Você se torna o que você acredita."
