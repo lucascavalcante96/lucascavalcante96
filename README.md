@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Cavalcante! 👋
 
-<!--
-**lucascavalcante96/lucascavalcante96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento Front-end apaixonado por transformar ideias em código e interfaces.
 
-Here are some ideas to get you started:
+## 🔭 O que estou fazendo no momento
+- 📚 Praticando **HTML5 e CSS3** (layouts responsivos e animações).
+- 🧠 Aprofundando em **JavaScript** (manipulação de arrays e lógica).
+- 🏗️ Construindo projetos para o meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+## 📈 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[lucascavalcante96]&show_icons=true&theme=radical)
+
+---
+"Você se torna o que você acredita."
