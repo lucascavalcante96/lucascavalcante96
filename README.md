@@ -19,10 +19,10 @@ Estudante de **Desenvolvimento Front-end** apaixonado por transformar ideias em 
 | **Ferramentas** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ### 📊 Estatísticas do GitHub
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascavalcante96&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalcante96&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-</div>
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucascavalcante96&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalcante96&layout=compact&langs_count=7&theme=radical" />
+</p>
 
 ---
 
