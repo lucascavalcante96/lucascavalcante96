@@ -117,6 +117,6 @@ public class Developer {
 
 ### ☕ "First, solve the problem. Then, write the code." — John Johnson
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucascavalcante96)
 
 </div>
