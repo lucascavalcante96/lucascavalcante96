@@ -115,7 +115,7 @@ public class Developer {
 
 <div align="center">
 
-### ☕ "First, solve the problem. Then, write the code." — John Johnson
+### ☕ Você se torna aquilo que acredita
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucascavalcante96)
 
