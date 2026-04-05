@@ -64,11 +64,6 @@ public class Developer {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascavalcante96&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=F89820&title_color=F89820&icon_color=F89820"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalcante96&layout=compact&langs_count=7&theme=dark&border_color=F89820&title_color=F89820"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&border=F89820&ring=F89820&fire=F89820&currStreakLabel=F89820" />
 </div>
 
