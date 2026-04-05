@@ -84,7 +84,7 @@ public class Developer {
 ## 📚 Roadmap de Estudos
 
 - [x] ☕ Fundamentos de Java (POO, Collections, Streams)
-- [x] 🗃️ SQL e modelagem de banco de dados
+- [ ] 🗃️ SQL e modelagem de banco de dados
 - [x] 🌿 Git e controle de versão
 - [ ] 🌱 Spring Boot & Spring Data JPA
 - [ ] 🔐 Spring Security & JWT
