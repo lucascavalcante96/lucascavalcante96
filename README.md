@@ -1,106 +1,76 @@
-<div align="center">
+<h1 align="center">Olá, eu sou Lucas Cavalcante 👋</h1>
 
-# Olá! Eu sou Lucas Cavalcante 👋
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end em formação</h3>
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-### ☕ Focado em Backend com Java
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualizações%20de%20perfil&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89820&center=true&vCenter=true&width=435&lines=Java+Developer+em+formação+🚀;Apaixonado+por+Backend+⚙️;Sempre+aprendendo+algo+novo+📚)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-```java
-public class Developer {
-
-    String nome       = "Lucas Cavalcante";
-    String curso      = "Análise e Desenvolvimento de Sistemas";
-    String foco       = "Backend com Java";
-    boolean openToWork = true;
-
-    String[] atualmente = {
-        "📚 Aprimorando lógica com Java",
-        "🌱 Estudando Spring Boot",
-        "🔍 Explorando boas práticas de API REST"
-    };
-
-    String objetivo = "Construir sistemas robustos e escaláveis";
-}
-```
+<p align="center">
+  <a href="www.linkedin.com/in/lucas-cavalcante96">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lc.cavalcante96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🧭 Sobre mim
 
-<div align="center">
-
-### 💛 Foco Principal
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### 📖 Aprendendo
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-</div>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (3º semestre)**
+- 💻 Foco em **Desenvolvimento Front-end**
+- 🚀 Aprendendo e aplicando **React** em projetos práticos
+- 🌱 Estudando constantemente boas práticas de UI/UX e performance web
+- 🤝 Aberto para **estágio** e oportunidades júnior em front-end
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&border=F89820&ring=F89820&fire=F89820&currStreakLabel=F89820" />
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-> 💡 *Confira os repositórios fixados abaixo para ver meus projetos!*
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🔧 Em breve | Sistema de gerenciamento em Java | `Java` `Spring Boot` `MySQL` |
-| 📦 Em breve | API REST com autenticação | `Java` `Spring Security` `JWT` |
-| 🗃️ Em breve | CRUD completo com JPA | `Java` `Hibernate` `PostgreSQL` |
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 📚 Roadmap de Estudos
+### 📊 Estatísticas do GitHub
 
-- [x] ☕ Fundamentos de Java (POO, Collections, Streams)
-- [ ] 🗃️ SQL e modelagem de banco de dados
-- [x] 🌿 Git e controle de versão
-- [ ] 🌱 Spring Boot & Spring Data JPA
-- [ ] 🔐 Spring Security & JWT
-- [ ] 🐳 Docker e containerização
-- [ ] ☁️ Deploy em cloud (AWS / Railway)
-- [ ] 🧪 Testes com JUnit & Mockito
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascavalcante96&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📬 Contato
+### 🎯 Objetivos atuais
 
+- [ ] Aprofundar em **React** (hooks, context API, roteamento)
+- [ ] Praticar **responsividade** e **mobile first** com Tailwind
+- [ ] Construir um portfólio completo com projetos reais
+- [ ] Estudar consumo de **APIs REST**
+- [ ] Contribuir com projetos **open source**
 
-<div align="center">
+---
 
-### ☕ Você se torna aquilo que acredita
+### 📫 Vamos conversar?
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lucascavalcante96)
+Estou em busca da minha primeira oportunidade na área e adoraria trocar uma ideia sobre projetos, tecnologia ou vagas de estágio!
 
-</div>
+<p align="left">
+  <a href="www.linkedin.com/in/lucas-cavalcante96">
+    <img src="https://img.shields.io/badge/-Conecte--se%20comigo-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">⭐ Se curtiu meu perfil, deixa uma estrela nos repositórios que achou legal!</p>
