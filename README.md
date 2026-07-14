@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end em formação</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualizações%20de%20perfil&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=lucascavalcante96&label=Visualizações%20de%20perfil&color=0e75b6&style=flat" alt="Visualizações de perfil" />
 </p>
 
 <p align="center">
