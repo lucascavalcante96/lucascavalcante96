@@ -29,7 +29,7 @@ Acredito em construir uma base sólida antes de correr — por isso meu foco atu
 
 **Outros conhecimentos**
 - 🧠 Lógica de Programação
-- 📊 Resolução de Problemas e Otimização de Processos (background em Logística)
+- 📊 Resolução de Problemas e Otimização de Processos
 
 **Ferramentas**
 - 🔧 Git
