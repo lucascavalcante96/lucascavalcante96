@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Atualmente atuo como **Assistente de Logística na Amazon**, onde desenvolvo diariamente uma habilidade essencial para qualquer desenvolvedor: **resolver problemas complexos sob pressão, com eficiência e atenção a processos**. Foi observando a lógica por trás dos sistemas que sustentam operações em larga escala que nasceu meu interesse por programação — e decidi transformar essa curiosidade em carreira.
+Atualmente atuo como Assistente de Logística na Amazon, onde desenvolvo diariamente uma habilidade essencial para qualquer desenvolvedor: **resolver problemas complexos sob pressão, com eficiência e atenção a processos**. Foi observando a lógica por trás dos sistemas que sustentam operações em larga escala que nasceu meu interesse por programação — e decidi transformar essa curiosidade em carreira.
 
 Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na FAM, e venho me dedicando de forma consistente ao aprendizado de **lógica de programação, Programação Orientada a Objetos (POO) e Java**, com o objetivo claro de evoluir para o desenvolvimento **Backend** profissional.
 
