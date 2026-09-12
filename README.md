@@ -43,7 +43,7 @@ Minha trilha de estudos atual está estruturada da seguinte forma:
 
 - [x] Fundamentos de Lógica de Programação
 - [x] Java (Sintaxe, Estruturas de Dados e POO)
-- [ ] Aprofundamento em Programação Orientada a Objetos (SOLID, Design Patterns)
+- [x] Aprofundamento em Programação Orientada a Objetos (SOLID, Design Patterns)
 - [ ] Spring Boot (Fundamentos, APIs REST)
 - [ ] Persistência de Dados (JPA / Hibernate)
 - [ ] Banco de Dados Relacional (SQL)
