@@ -1,8 +1,43 @@
-<h1 align="center">Olá, eu sou o Lucas Cavalcante 👋</h1>
-<h3 align="center">Em transição de carreira para o Desenvolvimento Backend Java</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tandil/tandil/master/git.gif" width="30px" /> Olá, mundo! Eu sou o Lucas Cavalcante
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lc-cavalcante" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lc.cavalcante96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-blueviolet?style=flat-square" />
+</p>
+
+---
+
+### 💻 Sobre Mim
+
+Em transição para o **Desenvolvimento Backend**, combinando vivência prática em operações de alta complexidade (Amazon) com forte disciplina técnica. Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FAM, com foco em construir uma base sólida em engenharia de software, arquitetura de backends robustos e manipulação eficiente de dados.
+
+> *"Construindo sistemas com lógica, bases sólidas e um commit de cada vez."*
+
+---
+
+### 🛠️ Stack & Tecnologias
+
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend & Linguagens** | `Java` |
+| **Banco de Dados** | `SQL`, `SQL Server`, `Modelagem Relacional` |
+| **Ecossistema & Web** | `Spring Boot (Estudo)` |
+| **Ambiente & Ferramentas** | `Git`, `GitHub`, `VS Code`, `IntelliJ` |
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -10,59 +45,26 @@
 
 ---
 
-### 🚀 Sobre mim
+### 📚 Trilha de Evolução Atual
 
-Atualmente atuo como Assistente de Logística na Amazon, onde desenvolvo diariamente uma habilidade essencial para qualquer desenvolvedor: **resolver problemas complexos sob pressão, com eficiência e atenção a processos**. Foi observando a lógica por trás dos sistemas que sustentam operações em larga escala que nasceu meu interesse por programação — e decidi transformar essa curiosidade em carreira.
-
-Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na FAM, e venho me dedicando de forma consistente ao aprendizado de **lógica de programação, Programação Orientada a Objetos (POO) e Java**, com o objetivo claro de evoluir para o desenvolvimento **Backend** profissional.
-
-Acredito em construir uma base sólida antes de correr — por isso meu foco atual está em entender profundamente os fundamentos antes de avançar para frameworks e arquiteturas mais complexas.
-
----
-
-### 🛠️ Stack Técnica
-
-**Backend**
-- ☕ Java
-- 🧩 Programação Orientada a Objetos (POO)
-- 🌱 Spring Boot *(em evolução)*
-
-**Outros conhecimentos**
-- 🧠 Lógica de Programação
-- 📊 Resolução de Problemas e Otimização de Processos
-
-**Ferramentas**
-- 🔧 Git
-- 🐙 GitHub
+- [x] **Fundamentos & Lógica:** Algoritmos, Resolução de Problemas e Git/GitHub.
+- [x] **Java Core:** Sintaxe, Estruturas de Dados e Programação Orientada a Objetos (POO).
+- [x] **Banco de Dados & SQL:** Consultas relacionais e modelagem.
+- [ ] **Persistência de Dados:** JPA / Hibernate.
+- [ ] **Ecossistema Spring:** Spring Boot e construção de APIs REST robustas.
 
 ---
 
-### 📚 O que estou estudando agora
+<h3 align="center">⚡ Estatísticas & Atividade</h3>
 
-Minha trilha de estudos atual está estruturada da seguinte forma:
-
-- [x] Fundamentos de Lógica de Programação
-- [x] Java (Sintaxe, Estruturas de Dados e POO)
-- [x] Aprofundamento em Programação Orientada a Objetos (SOLID, Design Patterns)
-- [ ] Spring Boot (Fundamentos, APIs REST)
-- [ ] Persistência de Dados (JPA / Hibernate)
-- [ ] Banco de Dados Relacional (SQL)
-
-> 💡 Meu objetivo é construir projetos práticos aplicando cada etapa dessa trilha, documentando a evolução aqui no GitHub.
-
----
-
-### 📫 Como me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lc-cavalcante" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lc.cavalcante96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascavalcante96&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
+
 ---
 
-<p align="center"><i>"Construindo bases sólidas, um commit de cada vez."</i></p>
+
+<p align="center">
+  ⚡ <i>Sempre aprendendo, testando comandos no terminal e estruturando novas ideias.</i>
+</p>
